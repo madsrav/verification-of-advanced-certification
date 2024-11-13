@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="4" passed="0" failed="0" skipped="4">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-12T14:23:54 IST" name="Suite" finished-at="2024-11-12T14:24:09 IST" duration-ms="15224">
+  <suite started-at="2024-11-13T16:09:56 IST" name="Suite" finished-at="2024-11-13T16:10:05 IST" duration-ms="9084">
     <groups>
     </groups>
-    <test started-at="2024-11-12T14:23:54 IST" name="Chrome_Windows10_Test" finished-at="2024-11-12T14:24:09 IST" duration-ms="14603">
+    <test started-at="2024-11-13T16:09:56 IST" name="Chrome_Windows10_Test" finished-at="2024-11-13T16:10:05 IST" duration-ms="8592">
       <class name="com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@36902638]" started-at="2024-11-12T14:23:54 IST" name="setUp" finished-at="2024-11-12T14:24:09 IST" duration-ms="14192" status="FAIL">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@36902638]" started-at="2024-11-13T16:09:56 IST" name="setUp" finished-at="2024-11-13T16:10:05 IST" duration-ms="8510" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -56,7 +56,7 @@ at java.base/java.lang.Thread.run(Thread.java:1570)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="assessmentTest()[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@36902638]" started-at="2024-11-12T14:24:09 IST" name="assessmentTest" finished-at="2024-11-12T14:24:09 IST" duration-ms="0" status="SKIP">
+        <test-method signature="assessmentTest()[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@36902638]" started-at="2024-11-13T16:10:05 IST" name="assessmentTest" finished-at="2024-11-13T16:10:05 IST" duration-ms="0" status="SKIP">
           <exception class="java.lang.RuntimeException">
             <message>
               <![CDATA[Please check capabilites of browser]]>
@@ -88,15 +88,15 @@ at java.base/java.lang.Thread.run(Thread.java:1570)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- assessmentTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@36902638]" started-at="2024-11-12T14:24:09 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1731401649342" status="SKIP">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@36902638]" started-at="2024-11-13T16:10:05 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1731494405125" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest -->
     </test> <!-- Chrome_Windows10_Test -->
-    <test started-at="2024-11-12T14:24:09 IST" name="Edge_Mac_Test" finished-at="2024-11-12T14:24:09 IST" duration-ms="19">
+    <test started-at="2024-11-13T16:10:05 IST" name="Edge_Mac_Test" finished-at="2024-11-13T16:10:05 IST" duration-ms="13">
       <class name="com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@618b19ad]" started-at="2024-11-12T14:24:09 IST" name="setUp" finished-at="2024-11-12T14:24:09 IST" duration-ms="7" status="FAIL">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@618b19ad]" started-at="2024-11-13T16:10:05 IST" name="setUp" finished-at="2024-11-13T16:10:05 IST" duration-ms="5" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -145,7 +145,7 @@ at java.base/java.lang.Thread.run(Thread.java:1570)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="assessmentTest()[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@618b19ad]" started-at="2024-11-12T14:24:09 IST" name="assessmentTest" finished-at="2024-11-12T14:24:09 IST" duration-ms="0" status="SKIP">
+        <test-method signature="assessmentTest()[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@618b19ad]" started-at="2024-11-13T16:10:05 IST" name="assessmentTest" finished-at="2024-11-13T16:10:05 IST" duration-ms="0" status="SKIP">
           <exception class="java.lang.RuntimeException">
             <message>
               <![CDATA[Please check capabilites of browser]]>
@@ -177,15 +177,15 @@ at java.base/java.lang.Thread.run(Thread.java:1570)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- assessmentTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@618b19ad]" started-at="2024-11-12T14:24:09 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1731401649885" status="SKIP">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@618b19ad]" started-at="2024-11-13T16:10:05 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1731494405527" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest -->
     </test> <!-- Edge_Mac_Test -->
-    <test started-at="2024-11-12T14:24:09 IST" name="Firefox_Windows7_Test" finished-at="2024-11-12T14:24:09 IST" duration-ms="17">
+    <test started-at="2024-11-13T16:10:05 IST" name="Firefox_Windows7_Test" finished-at="2024-11-13T16:10:05 IST" duration-ms="13">
       <class name="com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@51399530]" started-at="2024-11-12T14:24:09 IST" name="setUp" finished-at="2024-11-12T14:24:09 IST" duration-ms="6" status="FAIL">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@51399530]" started-at="2024-11-13T16:10:05 IST" name="setUp" finished-at="2024-11-13T16:10:05 IST" duration-ms="5" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -234,7 +234,7 @@ at java.base/java.lang.Thread.run(Thread.java:1570)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="assessmentTest()[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@51399530]" started-at="2024-11-12T14:24:09 IST" name="assessmentTest" finished-at="2024-11-12T14:24:09 IST" duration-ms="0" status="SKIP">
+        <test-method signature="assessmentTest()[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@51399530]" started-at="2024-11-13T16:10:05 IST" name="assessmentTest" finished-at="2024-11-13T16:10:05 IST" duration-ms="0" status="SKIP">
           <exception class="java.lang.RuntimeException">
             <message>
               <![CDATA[Please check capabilites of browser]]>
@@ -266,15 +266,15 @@ at java.base/java.lang.Thread.run(Thread.java:1570)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- assessmentTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@51399530]" started-at="2024-11-12T14:24:09 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1731401649910" status="SKIP">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@51399530]" started-at="2024-11-13T16:10:05 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1731494405556" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest -->
     </test> <!-- Firefox_Windows7_Test -->
-    <test started-at="2024-11-12T14:24:09 IST" name="IE_Windows10_Test" finished-at="2024-11-12T14:24:09 IST" duration-ms="41">
+    <test started-at="2024-11-13T16:10:05 IST" name="IE_Windows10_Test" finished-at="2024-11-13T16:10:05 IST" duration-ms="10">
       <class name="com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@28701274]" started-at="2024-11-12T14:24:09 IST" name="setUp" finished-at="2024-11-12T14:24:09 IST" duration-ms="11" status="FAIL">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@28701274]" started-at="2024-11-13T16:10:05 IST" name="setUp" finished-at="2024-11-13T16:10:05 IST" duration-ms="4" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -323,7 +323,7 @@ at java.base/java.lang.Thread.run(Thread.java:1570)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="assessmentTest()[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@28701274]" started-at="2024-11-12T14:24:09 IST" name="assessmentTest" finished-at="2024-11-12T14:24:09 IST" duration-ms="0" status="SKIP">
+        <test-method signature="assessmentTest()[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@28701274]" started-at="2024-11-13T16:10:05 IST" name="assessmentTest" finished-at="2024-11-13T16:10:05 IST" duration-ms="0" status="SKIP">
           <exception class="java.lang.RuntimeException">
             <message>
               <![CDATA[Please check capabilites of browser]]>
@@ -355,7 +355,7 @@ at java.base/java.lang.Thread.run(Thread.java:1570)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- assessmentTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@28701274]" started-at="2024-11-12T14:24:09 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1731401649965" status="SKIP">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambdaTest.Scripts.LambdaSeleniumAdvancedAssessmentTest@28701274]" started-at="2024-11-13T16:10:05 IST" name="tearDown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1731494405617" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

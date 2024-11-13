@@ -19,13 +19,12 @@ public final class DriverFactory {
 		
 	}
 	
-	@SuppressWarnings("deprecation")
 	@Parameters(value={"browser","version","platform"})
 	public static WebDriver  getDriver(String browser, String version, String platform) throws MalformedURLException
 	{
 		WebDriver driver =null;
 		String runMode = PropertyFileUtiladv.readDataFromPropertyFile(ConfigProperties.RUNMODE);
-		String userName= "sravan38kumar" ;
+		String userName= "sravan38kumar";
 		String accessKey= "P4L6Mz6l4MJv4iG2E9isUd80KIdUUX2Bp0NwvRE3P4w2J1oSU7";
 		String gridUrl="@hub.lambdatest.com/wd/hub";
 		
